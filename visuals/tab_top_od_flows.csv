@@ -1,0 +1,41 @@
+member_casual,start_station_name,end_station_name,rides
+member,Michigan Ave & Washington St,Clinton St & Washington Blvd,961
+member,Canal St & Adams St,Michigan Ave & Washington St,897
+member,Columbus Dr & Randolph St,Clinton St & Washington Blvd,841
+member,Canal St & Madison St,Michigan Ave & Washington St,839
+member,Michigan Ave & Washington St,Canal St & Adams St,790
+member,Clinton St & Washington Blvd,Michigan Ave & Washington St,695
+member,Columbus Dr & Randolph St,State St & Randolph St,687
+member,Lake Park Ave & 56th St,University Ave & 57th St,678
+member,Wacker Dr & Washington St,Michigan Ave & Washington St,669
+member,University Ave & 57th St,Lake Park Ave & 56th St,656
+member,Ellis Ave & 60th St,University Ave & 57th St,653
+member,Ellis Ave & 60th St,Ellis Ave & 55th St,642
+member,Ellis Ave & 55th St,Ellis Ave & 60th St,606
+member,University Ave & 57th St,Kimbark Ave & 53rd St,585
+member,University Ave & 57th St,Ellis Ave & 60th St,581
+member,Clinton St & Madison St,LaSalle St & Jackson Blvd,579
+member,Larrabee St & Kingsbury St,Canal St & Adams St,579
+member,Columbus Dr & Randolph St,Canal St & Adams St,550
+member,Ravenswood Ave & Lawrence Ave,Clark St & Winnemac Ave,550
+member,Michigan Ave & Lake St,Clinton St & Washington Blvd,535
+casual,HQ QR,HQ QR,3555
+casual,Lake Shore Dr & Monroe St,Lake Shore Dr & Monroe St,701
+casual,Lake Shore Dr & Monroe St,Streeter Dr & Grand Ave,631
+casual,Streeter Dr & Grand Ave,Streeter Dr & Grand Ave,359
+casual,Shedd Aquarium,Streeter Dr & Grand Ave,345
+casual,Shedd Aquarium,Millennium Park,236
+casual,Michigan Ave & Oak St,Michigan Ave & Oak St,228
+casual,Millennium Park,Millennium Park,212
+casual,Lake Shore Dr & Monroe St,Shedd Aquarium,199
+casual,Millennium Park,Streeter Dr & Grand Ave,198
+casual,Dusable Harbor,Streeter Dr & Grand Ave,194
+casual,Montrose Harbor,Montrose Harbor,190
+casual,Streeter Dr & Grand Ave,Millennium Park,182
+casual,Streeter Dr & Grand Ave,Lake Shore Dr & Monroe St,170
+casual,Shedd Aquarium,Lake Shore Dr & Monroe St,164
+casual,Theater on the Lake,Theater on the Lake,143
+casual,Michigan Ave & Washington St,Michigan Ave & Washington St,142
+casual,Shedd Aquarium,Shedd Aquarium,138
+casual,Streeter Dr & Grand Ave,Shedd Aquarium,133
+casual,Streeter Dr & Grand Ave,Theater on the Lake,132
